@@ -1,6 +1,6 @@
 ### Oiee! 👋
 
-- 🌱 Estudando Git e Github
+- 🌱 Estudando HTML, JavaScript e CSS
 - 📫 How to reach me: brunaaparecidarocha@outlook.com 
 - 😄 Pronouns: ela/dela
 
