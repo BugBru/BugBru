@@ -1,6 +1,6 @@
 ### Oiee! 👋
 
-- 🌱 Estudando HTML, JavaScript e CSS
+- 🌱 Estudando Power BI, SQL e Banco de Dados
 - 📫 How to reach me: brunaaparecidarocha@outlook.com 
 - 😄 Pronouns: ela/dela
 
